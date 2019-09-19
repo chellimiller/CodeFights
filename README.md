@@ -3,7 +3,7 @@
 These are my solutions for the CodeFights exercises. Currently, the solutions will be written in JavaScript. Eventually, I would like to add solutions for PHP, C, and possibly Python and Java. I may also add solutions in Ruby, Perl, C#, or other languages because CodeFights is a great way to get comfortable with a new language.
 
 ## Completed:
- - Added JavaScript solutions for Intro
+ - Added JavaScript and C++ solutions for Intro
  - Added several solutions for Core and Intro
  - Added a few solutions for Database (MySQL)
 
